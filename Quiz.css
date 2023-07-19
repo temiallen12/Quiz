@@ -1,0 +1,38 @@
+.wet {
+    color: rgba(0, 0, 255, 0.578);
+    font-family: Gill Sans sans-serif;
+    font-size: 150%;
+    text-align: center;
+}
+
+.container_1>div {
+    position: relative;
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.205);
+    font-family: Gill Sans, sans-serif;
+    width: 80%;
+    justify-content: center;
+    margin-left: 60px;
+
+}
+
+.container {
+    margin: auto;
+    border-radius: 5px;
+    padding: 50px;
+    background-color: white;
+    border: 2px solid rgba(0, 0, 0, 0);
+    font-family: Gill Sans, sans-serif;
+    width: 50%;
+    height: 25rem;
+
+}
+
+.said {
+    font-family: Gill Sans, sans-serif;
+    text-align: center;
+}
+div :hover{
+    background-color: rgba(255, 0, 0, 0.363);
+}
